@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rodrigo (a.k.a. rknight.dev) 
+# 👋 Hi, I'm Rodrigo (a.k.a. rknightdev) 
 
 👨‍💻 I'm a passionate **Web Developer** focused on building responsive and dynamic web applications using **HTML, CSS, and JavaScript**.  
 💡 I enjoy learning new technologies, solving problems, and turning ideas into interactive digital experiences.
