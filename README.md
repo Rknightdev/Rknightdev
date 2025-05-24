@@ -22,3 +22,5 @@ Feel free to **DM me** or open an issue if you have questions, suggestions, or w
 ![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rknightdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rknightdev&layout=compact&theme=radical)
 
+## 👁️‍🗨️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Rknightdev&color=blueviolet&style=flat)
