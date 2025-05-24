@@ -4,7 +4,7 @@
 💡 I enjoy learning new technologies, solving problems, and turning ideas into interactive digital experiences.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** HTML5, CSS3, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express, NestJS, Laravel, PHP  
 - **Databases:** MySQL, SQL  
 - **Other Languages:** C#, Kotlin  
